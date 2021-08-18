@@ -110,4 +110,5 @@ button:disabled:active{
 
 .error-text {
   color: #b40e0e;
+  font-size: 0.8rem;
 }
